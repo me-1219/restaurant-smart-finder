@@ -40,7 +40,11 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'corsheaders',
+    
+    # local apps
     'restaurants',
+    'menus',
+    'reviews',
 
 ]
 
